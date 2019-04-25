@@ -1,0 +1,12 @@
+Step1: Compile everything
+
+javac -d . AboutWindow.java
+
+Step2: Change Directory twice
+Cut and Paste Files
+
+Step3: jar cmf MANIFEST.MF sara.jar currencyConverter localization
+
+Step4: java -jar sara.jar
+
+
